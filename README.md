@@ -7,10 +7,10 @@
 
 <div align="center">
 <a href="https://github.com/leeje0506">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leeje0506&show_icons=true&theme=buefy&card_width=310" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leeje0506&show_icons=true&theme=buefy&card_width=250" />
 </a>
 <a href="https://github.com/leeje0506?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeje0506&layout=compact&langs_count=8&card_width=310" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeje0506&layout=compact&langs_count=8&card_width=250" />
 </a>
 </div>
 
