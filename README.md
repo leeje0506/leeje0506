@@ -1,9 +1,14 @@
 
+
 <div align="center">
+
+
+
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=D8F781&height=200&section=header&text=🍀%20leeje0506%20🍀&stroke=000000&strokeWidth=3&fontColor=04B431&&animation=twinkling&fontSize=45&fontAlign=50&)
 
 </div>
+
 
 <div align="center">
 <a href="https://github.com/leeje0506">
@@ -16,7 +21,13 @@
 
 
 
+
+
+
 <div align="center">
+
+
+
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeje0506)](https://solved.ac/leeje0506/)  
   
