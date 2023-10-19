@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=D8F781&height=200&section=header&text=capsule%20render&fontColor=4000FF&&animation=twinkling&fontSize=60&fontAlign=50&)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=D8F781&height=200&section=header&text=🍀%20leeje0506%20🍀&stroke=000000&strokeWidth=3&fontColor=04B431&&animation=twinkling&fontSize=45&fontAlign=50&)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeje0506&show_icons=true&theme=buefy) 
