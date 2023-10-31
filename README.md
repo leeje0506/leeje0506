@@ -41,8 +41,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 
 
@@ -51,6 +49,9 @@
 💙 ***SSAFY 10th*** *@Seoul* <span style="color: #ADADAD">2023.07~</span>
 
 <br>
+
+
+
 
 
 
