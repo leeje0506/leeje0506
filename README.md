@@ -46,8 +46,8 @@
 
 🍀 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝
 
-💙 ***SSAFY 10th*** *@Seoul* <span style="color: #ADADAD">2023.07~</span>
-
+💙 ***SSAFY 10th*** *@Seoul* <span style="color: #ADADAD">2023.07.05 ~ 2024.06.25</span>
+🌩️ ***9oormthon DeepDive Backend 1th*** *@Seoul* <span style="color: #ADADAD">2024.08.19 ~</span>
 <br>
 
 
